@@ -10,8 +10,4 @@ A showcase of my web development projects.
   </a>
 </p>
 
-This portfolio is built using HTML, CSS, JavaScript, TypeScript, Tailwind CSS, React, and Vite. It showcases my skills and projects in web development.
-
-## Contact
-
-[Your Email Address] | [Your LinkedIn Profile (Optional)] | [Your GitHub Profile (Optional)]
+This portfolio is built using HTML, CSS, JavaScript, TypeScript, Tailwind CSS, React, and Vite.
